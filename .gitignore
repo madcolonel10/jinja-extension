@@ -1,0 +1,26 @@
+# Environments
+venv/
+venvnew/
+venv2/
+
+# editor specific (pycharm)
+.idea/
+
+# dont know what this is
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# actual config file with sensitive data (ignores this file found in any directory)
+config.yml
+
+
+# todofile (ignores this file found in any directory)
+to_do.txt
+
+
+#passenger files
+passenger.*
