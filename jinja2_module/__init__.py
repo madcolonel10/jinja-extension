@@ -1,0 +1,1 @@
+from .stage_module import ModuleExtension
